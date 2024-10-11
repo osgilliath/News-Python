@@ -1,4 +1,4 @@
-api_key="84e62be03d2e4090b7b4a5b069cad710"
+api_key="" #Enter your api key from newsapi.org
 import requests
 import json
 from datetime import date
